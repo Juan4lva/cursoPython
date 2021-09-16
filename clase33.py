@@ -1,0 +1,12 @@
+lista = [2,7,8,14,8, 12,8]
+max = max(lista)
+print(max)
+len = len(lista)
+print(len)
+lista.append(100)
+print(lista)
+print(lista.count(8))
+lista.sort()
+print(lista)
+lista.reverse()
+print(lista)
